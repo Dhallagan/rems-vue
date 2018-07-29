@@ -1,4 +1,4 @@
-# willowui_new
+# rems-ui
 
 ## Project setup
 ```
